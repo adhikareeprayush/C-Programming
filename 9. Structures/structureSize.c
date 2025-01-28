@@ -2,7 +2,7 @@
 
 struct Person
 {
-    char name[50];
+    char name[10];
     int age;
     float marks;
 };
