@@ -14,7 +14,7 @@ int main()
     printf("Enter a number: ");
     scanf("%d", &n);
 
-    printf("Factorial of %d = %d\n", n, factorial(n));
+    printf("Factorial of %d = %lld\n", n, factorial(n));
 
     return 0;
 }
