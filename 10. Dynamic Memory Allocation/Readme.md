@@ -12,6 +12,7 @@ Dynamic memory allocation in C enables the allocation and deallocation of memory
 - **Better Control Over Memory**: Helps manage memory in large and complex programs.
 
 ## Functions for Dynamic Memory Allocation
+    free(ptr);
 
 C provides four standard library functions for dynamic memory management, which are defined in the `<stdlib.h>` header file.
 
